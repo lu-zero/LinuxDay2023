@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="210mm"
+   height="250mm"
+   viewBox="0 0 210 250"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   sodipodi:docname="Luminem2020.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient915">
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0"
+         id="stop911" />
+      <stop
+         style="stop-color:#d3d3d3;stop-opacity:1"
+         offset="1"
+         id="stop913" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="Gray1">
+      <stop
+         style="stop-color:#6f6f6f;stop-opacity:1;"
+         offset="0"
+         id="stop903" />
+      <stop
+         style="stop-color:#dedede;stop-opacity:1"
+         offset="1"
+         id="stop905" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="Dark1-5">
+      <stop
+         style="stop-color:#6f6f6f;stop-opacity:1"
+         offset="0"
+         id="stop897" />
+      <stop
+         style="stop-color:#0b0b0b;stop-opacity:0.95601171"
+         offset="1"
+         id="stop899" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="Dark1">
+      <stop
+         style="stop-color:#008300;stop-opacity:1"
+         offset="0"
+         id="stop871" />
+      <stop
+         style="stop-color:#00d700;stop-opacity:0;"
+         offset="1"
+         id="stop873" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Dark1"
+       id="linearGradient877"
+       x1="129.38126"
+       y1="93.120644"
+       x2="141.55208"
+       y2="186.51855"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.1492215,0,0,2.1492215,-133.99561,-126.38613)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Dark1-5"
+       id="linearGradient885"
+       x1="115.6793"
+       y1="92.069725"
+       x2="146.33737"
+       y2="92.069725"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.1492215,0,0,2.1492215,-133.99561,-126.38613)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#Gray1"
+       id="linearGradient909"
+       x1="70.061035"
+       y1="131.62717"
+       x2="126.20625"
+       y2="131.62717"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.1492215,0,0,2.1492215,-133.99561,-126.38613)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient915"
+       id="linearGradient917"
+       x1="63.235416"
+       y1="189.461"
+       x2="126.84881"
+       y2="189.461"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.1492215,0,0,2.1492215,-133.99561,-126.38613)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="185"
+     inkscape:cy="539"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:window-width="1252"
+     inkscape:window-height="943"
+     inkscape:window-x="64"
+     inkscape:window-y="44"
+     inkscape:window-maximized="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g258"
+       transform="translate(0.447711,-48.812956)">
+      <path
+         style="fill:url(#linearGradient917);fill-opacity:1;stroke:none;stroke-width:0.568648px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 1.911298,295.36667 C 18.277382,272.36043 66.185082,275.09034 138.63056,296.03825 125.82081,290.55017 116.2285,285.12128 100.22563,278.71183 84.222771,272.30235 62.946652,264.3436 39.279609,265.73742 10.961821,267.4051 4.3113346,276.11662 1.911298,295.36668 Z"
+         id="path847"
+         sodipodi:nodetypes="ccsscc"
+         inkscape:export-filename="/Users/lu_zero/luminem2020-450.png"
+         inkscape:export-xdpi="100.52077"
+         inkscape:export-ydpi="100.52077" />
+      <path
+         style="fill:url(#linearGradient909);fill-opacity:1;stroke:none;stroke-width:0.568648px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 49.677743,259.72596 C 24.436285,175.32398 7.5431093,70.75297 137.24955,51.600744 65.91095,50.834569 3.4508173,83.295854 18.970743,261.43192 c 10.235668,-3.10364 20.471332,-3.13821 30.707,-1.70596 z"
+         id="path849"
+         sodipodi:nodetypes="cccc"
+         inkscape:export-filename="/Users/lu_zero/luminem2020-450.png"
+         inkscape:export-xdpi="100.52077"
+         inkscape:export-ydpi="100.52077" />
+      <path
+         style="fill:url(#linearGradient885);fill-opacity:1;stroke:none;stroke-width:0.568648px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 179.89819,79.464503 c -32.39922,-7.089179 -49.1255,-0.916664 -61.98266,8.529723 -5.72869,-16.961209 -3.66694,-31.99693 9.66702,-32.981592 25.90545,-1.913024 43.09615,10.323732 52.31564,24.451869 z"
+         id="path851"
+         sodipodi:nodetypes="ccsc"
+         inkscape:export-filename="/Users/lu_zero/luminem2020-450.png"
+         inkscape:export-xdpi="100.52077"
+         inkscape:export-ydpi="100.52077" />
+      <path
+         style="fill:url(#linearGradient877);fill-opacity:1;stroke:none;stroke-width:0.568648px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 130.42578,87.425577 c 11.12053,-6.000898 23.1902,-7.25621 35.82483,-5.68648 l 40.94267,172.300393 c -21.97103,15.01017 -49.29955,18.54003 -81.88533,10.80432 z"
+         id="path853"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="/Users/lu_zero/luminem2020-450.png"
+         inkscape:export-xdpi="100.52077"
+         inkscape:export-ydpi="100.52077" />
+    </g>
+  </g>
+</svg>
