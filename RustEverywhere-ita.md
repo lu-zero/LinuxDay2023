@@ -22,7 +22,7 @@ footer: '![height:1em](assets/Luminem2020.svg) ![height:1em](assets/rust-italia.
 ## <!--fit--> Chi sono io?
 * Sviluppo Gentoo, una distribuzione Linux molto flessibile e duttile.
 * Contribuisco a diversi progetti sotto l'ombrellone VideoLan
-* Ultimamente contribuisco a Rust e scrivo software multimediale in questo linguaggio
+* Contribuisco a Rust e scrivo software multimediale in questo linguaggio
   - [rav1e](https://github.com/xiph/rav1e/) ad esempio.
 * E per non farmi mancare nulla lo uso pure in ambito IoT implementando [Web Of Things](https://github.com/wot-rust).
 
@@ -107,7 +107,7 @@ Questo l'avevo già detto nel 2019, ed apparentemente in questi 4 anni molti si 
 [Linux Foundation Press Release](https://www.linuxfoundation.org/press/press-release/open-source-web-engine-servo-to-be-hosted-at-linux-foundation)
 
 > The independent, modular, and embeddable web rendering engine written in Rust to nurture a stronger European open source ecosystem
-[Linus Foundation Europe Newsroom](https://linuxfoundation.eu/newsroom/servo-web-rendering-engine-joins-linux-foundation-europe)
+[Linux Foundation Europe Newsroom](https://linuxfoundation.eu/newsroom/servo-web-rendering-engine-joins-linux-foundation-europe)
 
 
 ---
@@ -306,6 +306,21 @@ Sono ben 4 anni che parlo di Rust al LinuxDay:
 # <!--fit--> Domande?
 
 ![center](assets/ferris-and-corro.svg)
+
+
+---
+## <!--fit--> Quali sono i toolkit GUI per Rust?
+
+* [COSMIC](https://github.com/pop-os/cosmic) contribuisce ad [iced](https://github.com/iced-rs/iced) e lo usa come toolkit.
+* [slint](https://github.com/slint-ui/slint) fornisce una ui con suo DSL dedicato, filosoficamente è affine a Qt.
+* [egui](https://github.com/emilk/egui) è un toolkit embeddabile, utile anche per creare UI all'interno di videogiochi.
+
+---
+## <!--fit--> Abbiamo un debugger per Rust?
+
+* __gdb__ e __lldb__ han un migliore supporto per il linguaggio, ma sono relativamente meno usati
+    * Anche l'integrazione con gli IDE di intellij and Code è migliorata.
+* In compenso crate come [tracing](https://github.com/tokio-rs/tracing) e [defmt](https://github.com/knurling-rs/defmt) forniscono strumenti di logging molto avanzati.
 
 ---
 # Riferimenti
